@@ -358,7 +358,7 @@ const Reg = () => {
                 <div 
                   className="g-recaptcha"
                   data-type="image"
-                  data-sitekey="6LdNuaclAAAAABLXotEQiWPvHOu0-QpdeYO85aCp"
+                  data-sitekey="6LdAHbMlAAAAANDBYQi4ydhgXGXJl4iHT9nESQI4"
                 ></div>
 
                 <input type="submit" name="Register" value="Register" />
