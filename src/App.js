@@ -5,6 +5,7 @@ import {
     useNavigate
   } from "react-router-dom";
 import Reg from "./Reg";
+import success from "./success";
 
 const App = () => {
     const navigate = useNavigate();
@@ -12,6 +13,7 @@ const App = () => {
    
       <Routes>
         <Route path="/" element={<Reg />}>
+        <Route path="/success" element={<success/> } />
         </Route>
       </Routes>
   
